@@ -19,7 +19,6 @@ public class tarefa1Exercicio5
 	media= (nota1+nota2+nota3)/3;
 	
 	System.out.println("a media será: "+ media);
-	
 	}
 
 }

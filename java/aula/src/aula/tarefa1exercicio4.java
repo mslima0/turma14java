@@ -22,9 +22,6 @@ public class tarefa1exercicio4
 	R= (A+B)*(A+B);
 	S= (B+C)*(B+C);
 	D= (R+S)/2;
-	
-System.out.printf("O resultado é:%.2f",D);
-
-	
+	System.out.println("O resultado é:"  + Math.round(D));
     }
 }
