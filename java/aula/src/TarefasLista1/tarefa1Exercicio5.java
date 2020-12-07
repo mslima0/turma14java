@@ -9,9 +9,7 @@ public class tarefa1Exercicio5
 	
 	public static void main (String []args) 
 	
-	{
-	Scanner leia = new Scanner (System.in);
-	
+	{	
 	float nota1, nota2, nota3, media;
 	nota1=2;
 	nota2=3;
