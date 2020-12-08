@@ -7,6 +7,7 @@ public class tarefa1
 	//Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias. 
 
 public static void main (String []args) 
+
 	{
 	Scanner leia = new Scanner (System.in);
 	int dia, mes, ano, resposta;
@@ -18,9 +19,5 @@ public static void main (String []args)
 	ano = leia.nextInt();
 	resposta = (365*ano)+(30*mes)+(dia);
 	System.out.println("a sua idade em dias será: "+ resposta);
-
-
-
 	}
-
 }
