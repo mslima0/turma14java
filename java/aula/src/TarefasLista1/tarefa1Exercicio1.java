@@ -2,7 +2,7 @@ package aula;
 
 import java.util.Scanner;
 
-public class tarefa1 
+public class tarefa1Exercicio1 
 {
 	//Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias. 
 

@@ -6,7 +6,6 @@ public class tarefa1exercicio4
 {
 	//Escreva  um sistema que leia três números inteiros e positivos (A, B, C) e calcule a seguinte expressão: 
 	
-	
 	public static void main (String []args) 
 
 	{ 
